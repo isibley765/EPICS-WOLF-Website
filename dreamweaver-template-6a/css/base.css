@@ -1,0 +1,5 @@
+/* this calls the files for everything. see index.html */
+@import url("reset.css");
+@import url("960.css");
+@import url("text.css");
+@import url("master.css");
