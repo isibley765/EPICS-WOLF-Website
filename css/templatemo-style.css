@@ -475,6 +475,13 @@ http://www.templatemo.com/tm-516-known
     width: 100%;
   }
 
+  .anon-image img {
+    display: block;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   .team-thumb .social-icon {
     border-top: 1px solid #f0f0f0;
     padding: 4px 20px 0 20px;
