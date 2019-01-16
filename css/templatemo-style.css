@@ -468,6 +468,10 @@ http://www.templatemo.com/tm-516-known
     height: 100%;
   }
 
+  .full-height {
+    height: 100%;
+  }
+
   .team-info {
     padding: 20px 30px;
   }
