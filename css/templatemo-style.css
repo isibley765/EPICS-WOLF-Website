@@ -465,6 +465,7 @@ http://www.templatemo.com/tm-516-known
     position: relative;
     overflow: hidden;
     text-align: left;
+    height: 100%;
   }
 
   .team-info {
