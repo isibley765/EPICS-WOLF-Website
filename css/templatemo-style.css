@@ -459,6 +459,10 @@ http://www.templatemo.com/tm-516-known
   /*---------------------------------------
       TEAM              
   -----------------------------------------*/
+  #team .container .row {
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
 
   .team-thumb {
     background: #ffffff;
@@ -499,6 +503,7 @@ http://www.templatemo.com/tm-516-known
 
   .team-info h3 {
     margin: 0;
+    height: 3.4em;
   }
 
 
