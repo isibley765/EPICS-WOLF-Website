@@ -506,6 +506,11 @@ http://www.templatemo.com/tm-516-known
     height: 3.4em;
   }
 
+  .team-info h3 {
+    margin: 0;
+    height: 1em;
+  }
+
 
   /*---------------------------------------
       COURSES             
